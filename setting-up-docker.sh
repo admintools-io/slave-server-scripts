@@ -12,3 +12,4 @@ apt-get install -y docker.io git
 #}
 #EOF
 systemctl enable docker && systemctl start docker
+fi
